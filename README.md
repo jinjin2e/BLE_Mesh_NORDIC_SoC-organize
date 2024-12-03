@@ -5,7 +5,7 @@ Bluetooth® 메시 네트워킹은 다대다(m:m) 장치 통신을 가능하게 
 블루투스 메시는 무선 통신 기술이 아니라 네트워킹 기술입니다. 이 기술은 무선 통신 프로토콜 스택인 Bluetooth Low Energy(BLE)에 의존합니다.
 
 
-# BLE_Mesh_NORDIC_SoC-organize
+# BLE_Mesh_organize
 > 조명 등 저전력 IoT기기 통신을 위해 단순한 재전송(relay)동작기반 Bluetooth Mesh 
 > Network 기술  
 > 보통의 BLE기술의 통신 전송거리 한계로 인해서 (20m) iot등의 적용이 어려워 사용함  
